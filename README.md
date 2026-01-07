@@ -33,7 +33,7 @@ text
 
 1. Clone & Setup
 bash
-git clone <your-repo-url>
+git clone <https://github.com/arpitkverma/Notesapp.git>
 cd notesapp
 flutter pub get
 
